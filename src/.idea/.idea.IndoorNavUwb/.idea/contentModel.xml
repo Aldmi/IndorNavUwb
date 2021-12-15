@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aldmi\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aldmi\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_IndoorNavUwb.1171819255.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Aldmi\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Aldmi\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="D:\Git\IndoorNav_UWB\src" t="IncludeFlat">
+      <e p="Api" t="Include" />
+      <e p="Api.Web" t="IncludeRecursive">
+        <e p="Api.Web.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net6.0" t="Include">
+              <e p="Api.Web.AssemblyInfo.cs" t="Include" />
+              <e p="Api.Web.GlobalUsings.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="IndoorNavUwb.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

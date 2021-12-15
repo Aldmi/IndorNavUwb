@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VV1kNK9Wyu3HZPcXZIv1GW9sqvwODJQ49RkanyeemIrLkRGOB2cKN7M3UOYJWrADVyVQIpkb/rPN191BQ1iIOg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\IndoorNav_UWB\\src\\Api.Web\\Api.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aldmi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aldmi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aldmi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aldmi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aldmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aldmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
