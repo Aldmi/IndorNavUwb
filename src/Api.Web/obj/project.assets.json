@@ -72,6 +72,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "DataAccess.EfCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataAccess.Interfaces": "1.0.0",
+          "Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.EfCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.EfCore.dll": {}
+        }
+      },
+      "DataAccess.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.Interfaces.dll": {}
+        }
+      },
+      "Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.Core.dll": {}
+        }
       }
     }
   },
@@ -200,17 +237,33 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "DataAccess.EfCore/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess.EfCore/DataAccess.EfCore.csproj",
+      "msbuildProject": "../DataAccess.EfCore/DataAccess.EfCore.csproj"
+    },
+    "DataAccess.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess.Interfaces/DataAccess.Interfaces.csproj",
+      "msbuildProject": "../DataAccess.Interfaces/DataAccess.Interfaces.csproj"
+    },
+    "Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../Domain.Core/Domain.Core.csproj",
+      "msbuildProject": "../Domain.Core/Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DataAccess.EfCore >= 1.0.0",
+      "DataAccess.Interfaces >= 1.0.0",
+      "Domain.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
     "C:\\Users\\Aldmi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -223,15 +276,11 @@
       "outputPath": "D:\\Git\\IndoorNav_UWB\\src\\Api.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Aldmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -243,7 +292,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Git\\IndoorNav_UWB\\src\\DataAccess.EfCore\\DataAccess.EfCore.csproj": {
+              "projectPath": "D:\\Git\\IndoorNav_UWB\\src\\DataAccess.EfCore\\DataAccess.EfCore.csproj"
+            },
+            "D:\\Git\\IndoorNav_UWB\\src\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj": {
+              "projectPath": "D:\\Git\\IndoorNav_UWB\\src\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj"
+            },
+            "D:\\Git\\IndoorNav_UWB\\src\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "D:\\Git\\IndoorNav_UWB\\src\\Domain.Core\\Domain.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

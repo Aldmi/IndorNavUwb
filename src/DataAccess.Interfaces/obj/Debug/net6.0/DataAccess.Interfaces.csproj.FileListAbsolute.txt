@@ -1,0 +1,15 @@
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\DataAccess.Interfaces.deps.json
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\DataAccess.Interfaces.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\ref\DataAccess.Interfaces.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\DataAccess.Interfaces.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.AssemblyReference.cache
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.AssemblyInfoInputs.cache
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.AssemblyInfo.cs
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\ref\DataAccess.Interfaces.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\Domain.Core.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\Domain.Core.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.CopyComplete
