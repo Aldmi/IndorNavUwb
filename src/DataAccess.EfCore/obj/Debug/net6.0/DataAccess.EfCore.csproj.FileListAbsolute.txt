@@ -1,0 +1,17 @@
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\DataAccess.EfCore.deps.json
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\DataAccess.EfCore.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\ref\DataAccess.EfCore.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\DataAccess.EfCore.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.csproj.AssemblyReference.cache
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.AssemblyInfoInputs.cache
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.AssemblyInfo.cs
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.csproj.CoreCompileInputs.cache
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\ref\DataAccess.EfCore.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\DataAccess.Interfaces.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\Domain.Core.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\DataAccess.Interfaces.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\bin\Debug\net6.0\Domain.Core.pdb
+D:\Git\IndoorNav_UWB\src\DataAccess.EfCore\obj\Debug\net6.0\DataAccess.EfCore.csproj.CopyComplete

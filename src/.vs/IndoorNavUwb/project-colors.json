@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43aba8fe-23a6-4431-9c45-0e9312cb8ba4": {
+      "ProjectGuid": "43aba8fe-23a6-4431-9c45-0e9312cb8ba4",
+      "DisplayName": "Api.Web",
+      "ColorIndex": 0
+    },
+    "f091b3e0-9fd4-411b-9425-06aa60e550d2": {
+      "ProjectGuid": "f091b3e0-9fd4-411b-9425-06aa60e550d2",
+      "DisplayName": "DataAccess.Interfaces",
+      "ColorIndex": 1
+    },
+    "892dc846-95dd-48fe-828c-a66bfd2b6e75": {
+      "ProjectGuid": "892dc846-95dd-48fe-828c-a66bfd2b6e75",
+      "DisplayName": "DataAccess.EfCore",
+      "ColorIndex": 2
+    },
+    "1a77a124-a251-400c-98e5-0f5bbf1503bb": {
+      "ProjectGuid": "1a77a124-a251-400c-98e5-0f5bbf1503bb",
+      "DisplayName": "Domain.Core",
+      "ColorIndex": 3
+    },
+    "7888252e-cc51-40ef-8aca-142ea6cfb04b": {
+      "ProjectGuid": "7888252e-cc51-40ef-8aca-142ea6cfb04b",
+      "DisplayName": "Utils",
+      "ColorIndex": 4
+    },
+    "b640ce43-8bea-4658-858b-77e4515d1ee5": {
+      "ProjectGuid": "b640ce43-8bea-4658-858b-77e4515d1ee5",
+      "DisplayName": "BackgroundsJobs.Interfaces",
+      "ColorIndex": 5
+    },
+    "7e154439-a608-407f-bbe4-cfe86b45c3aa": {
+      "ProjectGuid": "7e154439-a608-407f-bbe4-cfe86b45c3aa",
+      "DisplayName": "BackGroundJob.UseCase",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
