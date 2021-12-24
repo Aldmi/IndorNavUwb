@@ -103,11 +103,24 @@
       "Domain.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Utils": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Domain.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/Domain.Core.dll": {}
+        }
+      },
+      "Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utils.dll": {}
         }
       }
     }
@@ -252,6 +265,11 @@
       "type": "project",
       "path": "../Domain.Core/Domain.Core.csproj",
       "msbuildProject": "../Domain.Core/Domain.Core.csproj"
+    },
+    "Utils/1.0.0": {
+      "type": "project",
+      "path": "../Utils/Utils.csproj",
+      "msbuildProject": "../Utils/Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {

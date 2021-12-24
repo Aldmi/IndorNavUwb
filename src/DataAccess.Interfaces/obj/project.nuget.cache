@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XAP+jhRz7R/WmUy1cQS5K2GKiSmZJ9ho6p88vIKSx3U3D2aSQk//cekjNP3RFY+eR3NTWCTDLOztWvCFcPn2nA==",
+  "dgSpecHash": "f+7mh/u0rsRxNKWKmdytdFuyLyiq/CLlR3drZPgJwGy8sxKnVQCeL0HzXWtiWE8kCnUK605UPvcc1TZ5vND4iw==",
   "success": true,
   "projectFilePath": "D:\\Git\\IndoorNav_UWB\\src\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj",
   "expectedPackageFiles": [],
