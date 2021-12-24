@@ -82,8 +82,16 @@
         }
       },
       "Domain.Core/1.0.0": {
+        "dependencies": {
+          "Utils": "1.0.0"
+        },
         "runtime": {
           "Domain.Core.dll": {}
+        }
+      },
+      "Utils/1.0.0": {
+        "runtime": {
+          "Utils.dll": {}
         }
       }
     }
@@ -147,6 +155,11 @@
       "sha512": ""
     },
     "Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

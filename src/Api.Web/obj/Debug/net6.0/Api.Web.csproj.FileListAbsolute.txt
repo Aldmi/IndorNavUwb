@@ -31,3 +31,5 @@ D:\Git\IndoorNav_UWB\src\Api.Web\bin\Debug\net6.0\Domain.Core.dll
 D:\Git\IndoorNav_UWB\src\Api.Web\bin\Debug\net6.0\DataAccess.EfCore.pdb
 D:\Git\IndoorNav_UWB\src\Api.Web\bin\Debug\net6.0\DataAccess.Interfaces.pdb
 D:\Git\IndoorNav_UWB\src\Api.Web\bin\Debug\net6.0\Domain.Core.pdb
+D:\Git\IndoorNav_UWB\src\Api.Web\bin\Debug\net6.0\Utils.dll
+D:\Git\IndoorNav_UWB\src\Api.Web\bin\Debug\net6.0\Utils.pdb

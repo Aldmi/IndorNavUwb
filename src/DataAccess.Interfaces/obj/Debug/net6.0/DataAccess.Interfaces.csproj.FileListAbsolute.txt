@@ -13,3 +13,5 @@ D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Inter
 D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\Domain.Core.dll
 D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\Domain.Core.pdb
 D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.CopyComplete
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\Utils.dll
+D:\Git\IndoorNav_UWB\src\DataAccess.Interfaces\bin\Debug\net6.0\Utils.pdb
