@@ -3,7 +3,7 @@
 /// <summary>
 /// Результат выполнения Латерации (определения координат цели)
 /// </summary>
-public class TargetCalcResult
+public readonly struct TargetCalcResult
 {
     /// <summary>
     /// Координата X цели на плоскости
