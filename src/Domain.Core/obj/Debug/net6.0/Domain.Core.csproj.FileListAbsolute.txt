@@ -10,3 +10,6 @@ D:\Git\IndoorNav_UWB\src\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.CoreCom
 D:\Git\IndoorNav_UWB\src\Domain.Core\obj\Debug\net6.0\Domain.Core.dll
 D:\Git\IndoorNav_UWB\src\Domain.Core\obj\Debug\net6.0\ref\Domain.Core.dll
 D:\Git\IndoorNav_UWB\src\Domain.Core\obj\Debug\net6.0\Domain.Core.pdb
+D:\Git\IndoorNav_UWB\src\Domain.Core\bin\Debug\net6.0\Utils.dll
+D:\Git\IndoorNav_UWB\src\Domain.Core\bin\Debug\net6.0\Utils.pdb
+D:\Git\IndoorNav_UWB\src\Domain.Core\obj\Debug\net6.0\Domain.Core.csproj.CopyComplete
